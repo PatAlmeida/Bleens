@@ -1,0 +1,10 @@
+Start: (0, 5)
+Right 4
+Up 3
+Right 9
+Down 11
+Left 5
+Up 5
+Left 4
+Down 5
+Left 4
